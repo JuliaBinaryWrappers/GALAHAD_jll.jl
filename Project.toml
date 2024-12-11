@@ -1,6 +1,6 @@
 name = "GALAHAD_jll"
 uuid = "1621ace8-c1f0-5e32-a05d-ca786afa56c2"
-version = "5.0.0+0"
+version = "5.0.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -16,5 +16,5 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 JLLWrappers = "1.2.0"
 julia = "1.9"
 libblastrampoline_jll = "5.4.0"
-Libdl = "1"
-Artifacts = "1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
