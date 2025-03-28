@@ -1,6 +1,6 @@
 name = "GALAHAD_jll"
 uuid = "1621ace8-c1f0-5e32-a05d-ca786afa56c2"
-version = "5.1.1+0"
+version = "5.2.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

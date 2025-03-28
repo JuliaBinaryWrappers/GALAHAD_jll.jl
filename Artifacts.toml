@@ -1,337 +1,328 @@
 [[GALAHAD]]
 arch = "aarch64"
-git-tree-sha1 = "b9563f1dfc47623a16b18e82a181b6b43d375054"
+git-tree-sha1 = "a74b5952438e85f0cccfdcc93bede82d60b4908e"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[GALAHAD.download]]
-    sha256 = "2060ab2b93383a5b115b1d4b752ce3da540a26ab871cd9d371636fc0a7143e80"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "682e730862559381db0240645578c7735efbf99ff5c5cfa56849e131f88ce2f8"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "aarch64"
-git-tree-sha1 = "39f2d45e076d220b42bbc3a30a65822a8c533250"
+git-tree-sha1 = "b3e3423c7b3383ce255039788bccc1c98ac90384"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "1b6c78acc39d7639d5a755c24980bd0c443f359a4c78cd8d6ad159c74def39ef"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "01bbe4ef328209a7912077a9039631697b69c31cfcea854aac367a6f37196746"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "aarch64"
-git-tree-sha1 = "015372aa44d302acd34b0aea46bcae7c01d766d5"
+git-tree-sha1 = "b95fb9fbd177311daa3323d89cfb764c3b43b912"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "2f6b251a089342f0a2355cc2e888677ea440587d12459fc834fd25ef287cca4e"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "a56b49fb1f007bacd7b27fb8744ef7c0908330c2b7ae819e8461288588b87104"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "aarch64"
-git-tree-sha1 = "6addc8daadb2eb619f8e226c41d24302bb2ea433"
+git-tree-sha1 = "f5988fe8d6cba4224ef5eaf2e461837f95dc7e0d"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "58257227b075d8afcbe21c6ddecdb1023a69aa87832293737c7da20a63c8e3a3"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "9c0e32b160bbc6a4fbb490cb8aaa11d712c859d431dfd7cc17c34ef64e7f258c"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.aarch64-linux-musl-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "aarch64"
-git-tree-sha1 = "eb4e7d0957c3b097829317db9aa06949869cd29d"
+git-tree-sha1 = "43c92882f076954bc07ec3ab391fa492fafefbcf"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "64fa6f316415a6bd1fa953aae2d8756c154557ceccda4ecae1c293469e2cfd2b"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "7b6c5fb873ab0ffe0a381bf0c1a98aaf944174275d8e1413fec08adc3366f40a"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "aarch64"
-git-tree-sha1 = "bb40b8a223a9618a44d55f92676b1edd6c288278"
-libgfortran_version = "4.0.0"
-os = "freebsd"
-
-    [[GALAHAD.download]]
-    sha256 = "d25e6e82c366116b47260c04b584329331a39e26f08a824a1fd9bd5563b49dc2"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.aarch64-unknown-freebsd-libgfortran4.tar.gz"
-[[GALAHAD]]
-arch = "aarch64"
-git-tree-sha1 = "6495bd51f1a71e36645423cafa5b69438af80b38"
+git-tree-sha1 = "50acdb6dc9c115d6744d19b48c17b80c649efe38"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[GALAHAD.download]]
-    sha256 = "7131d6b921a3390f5952c20edc9043441f12b6b153d7db23605c212f1c726c4c"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "a870d16217c3833caa0421e130cc47e716c39fd40969be078144d9de8f5fb89c"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "06872d8aeb98537cf78018bd078a7311daf104ea"
+git-tree-sha1 = "92d04276b086d6b7a7b13f11d8b9b82129dfb225"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "97e50182bde08404215e880a1f35d72aca5e7e24cb8e9364f2f6f25fef0e87ce"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "46e1264d08f1cef70ee6d3c3bd5a4fa556945c34ca632287f2f4d8a7f60f78b1"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e0ae088f62865ceed37fd43f8514be58cdd0855b"
+git-tree-sha1 = "3b1a16e31628bdb46c48f787bbf5913f107dbbe7"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "9f8da7833d122479d8f16b0af4bf8d00489821ae76241e49fcb00736a2549ce9"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "36fb176726303fa15c4407c639e68df3bcaa9a6737bb66bcc5afdede39942630"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e0c9626d4d378afef5e526d35adcbc6def745cd3"
+git-tree-sha1 = "25cc0fc60acf3954b3e9ebf53abc3636bb1243af"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "bc9ee5541379a8de02ac7ff6a9ff209ec99391902f5714a0895169db156c09db"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "345faf9b8459ee37dfe813e2f215d2c091d61c0e4a0069cf0a92f7fd829123cd"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "eeee3e0bd7ec4e9d5f6eab2e8be76f4ad548a97e"
+git-tree-sha1 = "ac7d2f0487023421d94696968af2eb728f80a5ae"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "7b196e3eed59afd5d19c61ab4a6dcc093d054155900fd6c3ac63db9577cd51e8"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "d6ed228e1b281c02b09c6669e337e767d509e8876fb4944edc5cfeeef5d38a20"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "c2ff96d257a3fcde06f558458bc1f037cb3c2390"
+git-tree-sha1 = "30e125b8c1136962b4afcf5f0fdeb64b9b15bcc4"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "d64c9421b826b73a8e4d3637106396cf40c0ab90ceff25f7fbfc7a80e1158d3b"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "1fab5384a20fb7c78b6f391b3d20ea69588e353ceecc143b06e231e30ece80aa"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "966f696d4bb5537ac7708415fd6e3749aeb5d438"
+git-tree-sha1 = "c3cbc385f47902fb2b610ba5466e65087d978fcc"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "fce9895b72de6b274c125a837983a85e037ad01d945a6ae4664dddea6cb0a54f"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "cbeb46b875ef4a9a097e290f84196b14f24bccebb97cb373ef47bcb73528aebe"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8de23c247234eb9a8762a8a8caa59ba381b4ffdd"
+git-tree-sha1 = "18e0a62470d946f4773c4d0fb4d34a74ad55b26e"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "d011e28b65e4ce2ee5c287eb193b6604192d49d4991c3a173069fdad66028e06"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "18ca78e964349ddc07039503f6ddb9c8d99b425e91a56cda0a7f292b47581d27"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "db999ba87d8589f302f6c76aec79275aa062d069"
+git-tree-sha1 = "aca257b17381705daaf47f4b79a1eb08e07a743b"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "cae7e51f6ae3af3437fbed2f05d56c16cd99e54ada7b29494452c0f72a3564bc"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "0ddec28498503ac4a3ce708246946e78741c3ccca9b2e18beeb18f325cc14117"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "i686"
-git-tree-sha1 = "5be9d2911fc3ada7b7d3e7f7b5cf10dd446602bb"
+git-tree-sha1 = "511fd6be3a1faaefd50a6d88903d7d59d49ebc95"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "e8fb4148d66b839bc5f977cb672f2a6e511f52430d56987240355a3429a8cc5b"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "526ba21493328756096aac55a2620eca68cff2f72b08f3fd040e73d89102d1a4"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.i686-linux-gnu-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "i686"
-git-tree-sha1 = "d136b2be24e808c138b6ff78f84ddcf3ff2e0ef9"
+git-tree-sha1 = "b81bff732c04a35b1a0eda905879a16edcc5f062"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "97a37107926127ad1670c9efe2478bdea9ffc49572ae33a176b2be44a983f119"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "79cb622ffa9832ac206405d395b44bc614896d93e80ba0c09a8d9a90fd543243"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "i686"
-git-tree-sha1 = "afc8c91cdfe61e023040e5dd339c46c17685c2d3"
+git-tree-sha1 = "35b842c69b1aa978532f125cef28787c5f079631"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "f4aac3ac7697d3b1d0ee0037a381412d1a51bc1d84845b2be05d36377f0d65fc"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "7bc61104f1d3cfe61680c9a6ad4a92b5961adbbb93df111f72817a2b95a302dc"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.i686-linux-musl-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "i686"
-git-tree-sha1 = "0c0fccd332903874573c16c6b8eae8cbf6041472"
+git-tree-sha1 = "1a3fd1ee05af4e27a7bcd741244bd0311e0594b5"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "938b67b78c63703ce11ed013124d88c246c30e8feb76f13ea0fb21a6f5ddbf1f"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "286970b8838c3df26ec3904a037b6287df3fbc762a762019e71e29b5412f086a"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.i686-linux-musl-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "i686"
-git-tree-sha1 = "c066213ad9cb353366a12b99033acc7acd773470"
+git-tree-sha1 = "c32ceff7b7cd81e317bbd0a4d5ddca602a57c102"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[GALAHAD.download]]
-    sha256 = "97c4cdd0fbbb033f481e9b26cba4fb7b0904a1137ba868181c81d0118748b7e1"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "e939ce728730028181d3d1e8a9ec374f82b92762286844fa99dff3a86f6f931f"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.i686-w64-mingw32-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "i686"
-git-tree-sha1 = "24e58d1ee4f09142ef6b979099fca7bdfc72b233"
+git-tree-sha1 = "947d95885c31601d794691294e34ce0f61b23dc4"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[GALAHAD.download]]
-    sha256 = "45ac62e2d64e233f6bd47b4cfde8a28b826406de3c8e50f890b617b2cd458f9c"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "f4ec1b2ad3bb8750398643482a031d000b97f1302a705c6fc205ab41c72dc09b"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.i686-w64-mingw32-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "powerpc64le"
-git-tree-sha1 = "37c63163c7125f8520ff71175bc4aa05b1d80198"
+git-tree-sha1 = "393bf831f8c710fa90e4ae8768791f457b4f517e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "e737a364f5851e02d263f792d049f7d750bbede291525fbbf37fd37411b89c34"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "c2b277655e5257c5f6123480b9da81af315b60e2cd1072748b48041d845f6033"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "powerpc64le"
-git-tree-sha1 = "8f4de7797fd7e6eb0cace72cdf28ca33ddf43250"
+git-tree-sha1 = "168d4270f7c0672c4d882375d4f730164a37adba"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "68079919363737bc7a7383b043d64dacd5ad9e479aa14829a486ce9ec007ae6b"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "2f773432ae744e16b70d03fdfdfdcc3189bc891c695e5ed49aaf00cc4c4b4786"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "riscv64"
-git-tree-sha1 = "ff6a95baf635fec14241e694cfce6a98fc3f73c9"
+git-tree-sha1 = "905fa3b8079d8e51ee20304365a2f509d6282b5d"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "797608608221a763c4976be66c50e456d636d4a9d80d6b75b41c1685a1a33011"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.riscv64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "68278383b554fe1168146b3e6d1a43a0479b2ec8123563c27a8d2cfde699bd89"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.riscv64-linux-gnu-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "x86_64"
-git-tree-sha1 = "8573070f439f02852f1701bf2241434b4e4a8bad"
+git-tree-sha1 = "6dcc73d37f0b2b060dca52c743c648eac906a1e2"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[GALAHAD.download]]
-    sha256 = "f81cd5ea42c813a040e410f9f6ca668cc239e00d7b9c83cb3e1451c24cc4613a"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "ab1446c6612d4eaf4d2b8b232e7ff116d42268e313dcbe2ab7e9d48627fb2389"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "x86_64"
-git-tree-sha1 = "e3832859ebf9478cecad374fbfda5a51dab33740"
+git-tree-sha1 = "659d39b4f7e05f0fe6de6f68057f795dcae002d1"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[GALAHAD.download]]
-    sha256 = "90bfc2f8e10fdf9cdb7201cbf59747e9e4962f00151ea6c308e6080cc2f2d358"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "ce11dc248d253cc605dff078eca2e6df7c96ef84748170ddcb1b2116efc51363"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "x86_64"
-git-tree-sha1 = "aaaa77c65792e247d3b7057ff5e4ba8a87876fa2"
+git-tree-sha1 = "3c41f5234427333d6bbc00f562f68ae2e547c4a2"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "0ec4e639928ee069c2925c7ec30f61d2a6975157a767412729bcf56eda2b8c15"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "62a1b9264becc0ddd61ce1169a570027b44ae8130403ec247bbecebcd3e9e41c"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "x86_64"
-git-tree-sha1 = "c9c1329f64609175eaa078b3d6f7792e597c85a5"
+git-tree-sha1 = "5460d8e440549e80eae0774aa65d1314ccbd4afb"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "ea5649dfcf30f30a9045c2e68d9f9f99cf5218e64d6c1952d8d8a610dfd171f1"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "b6d778314f82df8323a6adefc993064005a4257b04a38b80be0dbd887c654e10"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "x86_64"
-git-tree-sha1 = "92043984021fcfd436c7ac9a20237c88458491f6"
+git-tree-sha1 = "a82c9d8c1b47ec3f28a47ed4416a3f12ab9fa523"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "ef0b13f85ae1388fa5006fcb9781d49d146160ee31902234732a83b5e7e74160"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "150b0ae9dce71937bca7ed9de78785d216e690f43a95cd35f29baffe5d69c021"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.x86_64-linux-musl-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "x86_64"
-git-tree-sha1 = "b2393458f883b80ab86968683d56f2c257fda829"
+git-tree-sha1 = "3c1585dac0d23a46334a431421f64e9c320becff"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[GALAHAD.download]]
-    sha256 = "cb2450f32f7407d09f68efb383cf6cf3ad2488a771260b2e3c840e8e474d06f2"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "275a1595aa9a67999cf72ac94f2b047fcd1c9ef1c151a9933e196a37bfce2806"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "x86_64"
-git-tree-sha1 = "f1b5808ddd67b9cc57a1863f52f55cbffc1ce1f8"
+git-tree-sha1 = "10ab80e2371df0317a474557b790cf8831ff105b"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[GALAHAD.download]]
-    sha256 = "153d094d9a8fa39ff146bab7373cf33ee13673e036437323f0c882f9a12bed0f"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "d4bcf4b3bf8173223725a8d5ab4d9444f3ec9d8e7917ab459ae241297fb7fc3c"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "x86_64"
-git-tree-sha1 = "aaef7f6044596177e62466aaf53c378b1acd8bb2"
+git-tree-sha1 = "e31355a85383da35a50b2e733687fc3d01cdab47"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[GALAHAD.download]]
-    sha256 = "fa30be615cea18636ff8a17596a07daa6b89663a26b3f9be1b5ab43f4743c916"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "62359a48dcd28e6bbe950db37765491bed9569ada943bb7311d5e71e0d02e8cf"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[GALAHAD]]
 arch = "x86_64"
-git-tree-sha1 = "4bdd28507e0cded6fd9fdaad1472d9df0023d710"
+git-tree-sha1 = "e5ba92b9643c7f4e11ae071b1b473cb9c0eee40b"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[GALAHAD.download]]
-    sha256 = "c56e3fc27b0e84f39ab7f551b3d56e5da7354a689e4014056ae71230cab127df"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "a8aa44eda08bff922c80f1bd46c7ce3b883531935320bff9030e70d78c9fcba5"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[GALAHAD]]
 arch = "x86_64"
-git-tree-sha1 = "7453e3adc29c3cca506f876b04e597e55b0bee9a"
+git-tree-sha1 = "1a44d6a5adf5c9ff7a14dcd6c9115f1069b79f2c"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[GALAHAD.download]]
-    sha256 = "f78040bc1de2df86945e98d73c997428a444592f7006a32d3ae36267c9e51b59"
-    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.1.1+0/GALAHAD.v5.1.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "428f1734fa01efb8894c9ffc0c4350c0424ec1c0e062ba863a866b36934e7e44"
+    url = "https://github.com/JuliaBinaryWrappers/GALAHAD_jll.jl/releases/download/GALAHAD-v5.2.0+0/GALAHAD.v5.2.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
