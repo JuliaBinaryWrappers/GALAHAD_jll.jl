@@ -6,13 +6,14 @@ using libblastrampoline_jll
 using Hwloc_jll
 using MUMPS_seq_jll
 using HSL_jll
+using CUTEst_jll
 JLLWrappers.@generate_wrapper_header("GALAHAD")
 JLLWrappers.@declare_library_product(libgalahad_double, "libgalahad_double.dll")
 JLLWrappers.@declare_library_product(libgalahad_double_64, "libgalahad_double_64.dll")
 JLLWrappers.@declare_library_product(libgalahad_single, "libgalahad_single.dll")
 JLLWrappers.@declare_library_product(libgalahad_single_64, "libgalahad_single_64.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, libblastrampoline_jll, Hwloc_jll, MUMPS_seq_jll, HSL_jll)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, libblastrampoline_jll, Hwloc_jll, MUMPS_seq_jll, HSL_jll, CUTEst_jll)
     JLLWrappers.@init_library_product(
         libgalahad_double,
         "bin\\libgalahad_double.dll",
